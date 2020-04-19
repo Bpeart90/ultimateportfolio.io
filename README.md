@@ -3,3 +3,7 @@ The basis of this assignment is to create a portfolio for me to show future empl
 Part of the assignment it to make sure that the pages and supporting documentation are linked together. The links show a ability to link multiple pages together as a fully functioning website. This website will be viewed and shared by potential employers and recruiters.
 
 The assignment is meant to be pushed to github multiple times to show potential employers an ability to learn and show progress to the final project. This will show an ability to learn, clean up work and progress to a final site that will be shared.
+
+Update*
+to follow with this assignment, i have attached multiple links including homeworks and the first project as well as links to my linkedin and github. i have added images and updated the coding.
+the languages used include bootstrap, html, and css. 
