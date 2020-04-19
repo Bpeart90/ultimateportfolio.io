@@ -7,4 +7,4 @@ The assignment is meant to be pushed to github multiple times to show potential 
 Update*
 to follow with this assignment, i have attached multiple links including homeworks and the first project as well as links to my linkedin and github. i have added images and updated the coding.
 the languages used include bootstrap, html, and css. a combination of images and links were added to the site to enable the user to gain a better idea of my experience and work that i have completed and added to git hub.
-As part of the assignment i was also to update my LinkedIn and Github profiles to show my status as a student and show the work i have completed.
+As part of the assignment i was also to update my LinkedIn and Github profiles to show my status as a student and show the work i have completed. In this new and updated version of the site, i was able to link my images to sites as well as space out the wording and images. The addition of the CSS document and images helped to make the site look better and stand out. The site is also using several hyperlinks that make it easy to use and follow.
