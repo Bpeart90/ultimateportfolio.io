@@ -1,6 +1,15 @@
 body {
-  text-align: left;
+  text-align: center;
   line-height: 50px;
-  margin: auto;
+
   max-width: 10000px;
+  };
+
+  .container {
+margin: 75px;
+  };
+
+h1 {
+
+    color: red !important;
   }
